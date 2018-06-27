@@ -42,16 +42,16 @@ Schedule
 
 | Lecture # | Date       | Content                              | Assignments                   |
 |-----------|------------|--------------------------------------|-------------------------------|
-| 1         | 02/06/2018 | Variables, operators, I/O operations |                               |
-| 2         | 03/06/2018 | Control flow, strings, conditions    | Start assignment 1            |
-| 3         | 04/06/2018 | Lists, functions, local/global       | Deadline assignment 1         |
-| 4         | 05/06/2018 | Generators, command line             | Start assignment 2            |
-| 5         | 06/06/2018 | Guest lecture                        | Deadline assignment 2         |
-| 6         | 09/06/2018 | Introducing the project              | Start project                 |
-| 7         | 10/06/2018 | Software testing                     |                               |
-| 8         | 11/06/2018 | None                                 | Deadline project code         |
-| 9         | 12/06/2018 | ...                                  | Deadline project presentation |
-| 10        | 13/06/2018 | Project presentations                |                               |
+| 1         | 02/07/2018 | Variables, operators, I/O operations |                               |
+| 2         | 03/07/2018 | Control flow, strings, conditions    | Start assignment 1            |
+| 3         | 04/07/2018 | Lists, functions, local/global       | Deadline assignment 1         |
+| 4         | 05/07/2018 | Generators, command line             | Start assignment 2            |
+| 5         | 06/07/2018 | Guest lecture                        | Deadline assignment 2         |
+| 6         | 09/07/2018 | Introducing the project              | Start project                 |
+| 7         | 10/07/2018 | Software testing                     |                               |
+| 8         | 11/07/2018 | None                                 | Deadline project code         |
+| 9         | 12/07/2018 | ...                                  | Deadline project presentation |
+| 10        | 13/07/2018 | Project presentations                |                               |
 
 Each day will also have a practical session, where students can program and ask questions about the assignments.
 
