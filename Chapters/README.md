@@ -20,9 +20,8 @@ This folder contains all the notebooks that we will use as our course material. 
   - [Chapter 10 - Dictionaries.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2010%20-%20Dictionaries.ipynb)
  
   
-- **`Block III`:** In this block for the first time we will interract with the environment outside of our Notebooks, by reading/writing files and by importing some of the most common external libraries (os, datetime, random, requests). We will get familiar with two commonly used file formats: JSON and tabular structures in CSV/TSV. We will also learn how to write our own functions. In addition, you will learn how to run and structure your code using python files.
+- **`Block III`:** In this block, We will get familiar with two commonly used file formats: JSON and tabular structures in CSV/TSV. We will also learn how to write our own functions. In addition, you will learn how to run and structure your code using python files.
 
-    - [Preparing your environment](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Preparation%20for%20Chapters%2013%2C%2014%2C%20and%2015.ipynb)
     - [Chapter 11 - Functions and scope](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2011%20-%20Functions%20and%20scope.ipynb)
     - [Chapter 12 - Importing external modules](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2012%20-%20Importing%20external%20modules.ipynb)
     - [Chapter 13 - Dealing with files](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2013%20-%20Dealing%20with%20files.ipynb)
