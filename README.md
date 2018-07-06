@@ -45,7 +45,7 @@ Schedule
 | 1         | 02/07/2018 | Variables, operators, I/O operations |                               |
 | 2         | 03/07/2018 | Control flow, strings, conditions    | Start assignment 1            |
 | 3         | 04/07/2018 | Lists, functions, local/global       | Deadline assignment 1         |
-| 4         | 05/07/2018 | Generators, command line             | Start assignment 2            |
+| 4         | 05/07/2018 | Generators, Using libraries          | Start assignment 2            |
 | 5         | 06/07/2018 | Guest lecture                        | Deadline assignment 2         |
 | 6         | 09/07/2018 | Introducing the project              | Start project                 |
 | 7         | 10/07/2018 | Software testing                     |                               |
