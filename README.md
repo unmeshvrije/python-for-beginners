@@ -1,7 +1,8 @@
 Programming in Python
 =====================
 
-This repository is used for the course Programming in Python for the Amsterdam Summer School 2018. Part of the course is
+This repository is used for the course Programming in Python for the Amsterdam Summer School 2018 and 2019.
+Part of the course is
 based on the course [Python for Text Analysis](https://github.com/cltl/python-for-text-analysis).
 
 Learning Python
