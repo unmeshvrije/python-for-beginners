@@ -29,32 +29,26 @@ Content taught in this course:
 Assignments
 -----------
 
-Students will be graded based on 2 graded individual assignments and a group project. The first assignment tests all the
-content until and including control flow, and the second assignment tests all content.
+Students will be graded based on 4 graded individual assignments.
 
-The group project allows students to program in groups and try to create a larger project than the individual
-assignments.
-
-All graded work is grades on correctness (does the code work?) and style (does the code look good?). Assignments will
-not be posted in this repository.
+All assignments will be graded on the correctness (does the code work?) and the style (does the code look good?).
+Assignments will not be posted in this repository but on the Canvas.
 
 Schedule
 --------
 
-| Lecture # | Date       | Content                              | Assignments                   |
-|-----------|------------|--------------------------------------|-------------------------------|
-| 1         | 02/07/2018 | Variables, operators, I/O operations |                               |
-| 2         | 03/07/2018 | Control flow, strings, conditions    | Start assignment 1            |
-| 3         | 04/07/2018 | Lists, functions, local/global       | Deadline assignment 1         |
-| 4         | 05/07/2018 | Generators, Using libraries          | Start assignment 2            |
-| 5         | 06/07/2018 | Guest lecture                        | Deadline assignment 2         |
-| 6         | 09/07/2018 | Introducing the project              | Start project                 |
-| 7         | 10/07/2018 | Software testing                     |                               |
-| 8         | 11/07/2018 | None                                 | Deadline project code         |
-| 9         | 12/07/2018 | ...                                  | Deadline project presentation |
-| 10        | 13/07/2018 | Project presentations                |                               |
-
-Each day will also have a practical session, where students can program and ask questions about the assignments.
+| Lecture # | Date       | Lecture     | Practical   | Content                              | Assignments                   |
+|-----------|------------|-------------|-------------|--------------------------------------|-------------------------------|
+| 1         | 22/07/2019 | 10:00-12:00 | 13:00-15:00 | Basics of programming, history       |                               |
+| 2         | 23/07/2019 | 10:00-13:00 | 14:00-17:00 | Variables, operators, I/O operations | Start assignment 1            |
+| 3         | 24/07/2019 | 10:00-13:00 | No lab      | Data types and built-in functions    | Deadline assignment 1         |
+| 4         | 25/07/2019 | 10:00-13:00 | 14:00-17:00 | Control flow, loops                  | Start assignment 2            |
+| 5         | 26/07/2019 | 10:00-13:00 | 14:00-17:00 | Functions, Recursion                 | Deadline assignment 2         |
+| 6         | 29/07/2019 | 10:00-13:00 | 14:00-17:00 | Strings, List and other containers   | Start assignment 3            |
+| 7         | 30/07/2019 | 10:00-13:00 | 14:00-17:00 | numpy and pandas                     | Deadline assignment 3         |
+| 8         | 31/07/2019 | 10:00-13:00 | No lab      | Generators                           | Start assignment 4            |
+| 9         | 01/08/2019 | 10:00-13:00 | 14:00-17:00 | Decorators                           | Deadline assignment 4         |
+| 10        | 02/08/2019 | 10:00-12:00 | 13:00-15:00 | Troubleshooting problems             |                               |
 
 Aim
 ---
