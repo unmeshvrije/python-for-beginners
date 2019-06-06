@@ -8,10 +8,10 @@ based on the course [Python for Text Analysis](https://github.com/cltl/python-fo
 Learning Python
 ---------------
 
-The course tries to teach as many core concepts of programming to students by using Python 3. Part of the lectures are
-interactive lectures where both lecturers and students work in Python Notebooks. A
-[JupyterHub](https://github.com/jupyterhub/jupyterhub) server is used to provide students with a programming environment
-that is accessible from anywhere.
+The course teaches all the core concepts of programming to students using Python 3.
+All lectures are interactive lectures where both lecturers and students work
+in Python Notebooks.
+Students can install Jupyter or install Anaconda which is an IDE that comes with Jupyter.
 
 Content taught in this course:
 
