@@ -37,17 +37,17 @@ Assignments will not be posted in this repository but on the Canvas.
 Schedule
 --------
 
-| Lecture # | Date       | Lecture     | Practical   | Content                              | Assignments                   |
+| Lecture # | Date       | Lecture     | Practical   | Content                              | Assignment #N Start - End     |
 |-----------|------------|-------------|-------------|--------------------------------------|-------------------------------|
 | 1         | 22/07/2019 | 10:00-12:00 | 13:00-15:00 | Basics of programming, history       |                               |
-| 2         | 23/07/2019 | 10:00-13:00 | 14:00-17:00 | Variables, operators, I/O operations | Start assignment 1            |
-| 3         | 24/07/2019 | 10:00-13:00 | No lab      | Data types and built-in functions    | Deadline assignment 1         |
-| 4         | 25/07/2019 | 10:00-13:00 | 14:00-17:00 | Control flow, loops                  | Start assignment 2            |
-| 5         | 26/07/2019 | 10:00-13:00 | 14:00-17:00 | Functions, Recursion                 | Deadline assignment 2         |
-| 6         | 29/07/2019 | 10:00-13:00 | 14:00-17:00 | Strings, List and other containers   | Start assignment 3            |
-| 7         | 30/07/2019 | 10:00-13:00 | 14:00-17:00 | numpy and pandas                     | Deadline assignment 3         |
-| 8         | 31/07/2019 | 10:00-13:00 | No lab      | Generators                           | Start assignment 4            |
-| 9         | 01/08/2019 | 10:00-13:00 | 14:00-17:00 | Decorators                           | Deadline assignment 4         |
+| 2         | 23/07/2019 | 10:00-13:00 | 14:00-17:00 | Variables, operators, I/O operations |                               |
+| 3         | 24/07/2019 | 10:00-13:00 | No lab      | Data types and built-in functions    | ASGN #1 Wed 18:00 - Fri 18:00 |
+| 4         | 25/07/2019 | 10:00-13:00 | 14:00-17:00 | Control flow, loops                  |                               |
+| 5         | 26/07/2019 | 10:00-13:00 | 14:00-17:00 | Functions, Recursion                 | ASGN #2 Fri 18:00 - Mon 18:00 |
+| 6         | 29/07/2019 | 10:00-13:00 | 14:00-17:00 | Strings, List and other containers   |                               |
+| 7         | 30/07/2019 | 10:00-13:00 | 14:00-17:00 | numpy and pandas                     |                               |
+| 8         | 31/07/2019 | 10:00-13:00 | No lab      | Generators                           | ASGN #3 Wed 13:00 - Fri 21:00 |
+| 9         | 01/08/2019 | 10:00-13:00 | 14:00-17:00 | Decorators                           |                               |
 | 10        | 02/08/2019 | 10:00-12:00 | 13:00-15:00 | Troubleshooting problems             |                               |
 
 Aim
