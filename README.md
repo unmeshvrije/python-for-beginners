@@ -29,7 +29,7 @@ Content taught in this course:
 Assignments
 -----------
 
-Students will be graded based on 4 graded individual assignments.
+Students will be graded based on 3 individual assignments.
 
 All assignments will be graded on the correctness (does the code work?) and the style (does the code look good?).
 Assignments will not be posted in this repository but on the Canvas.
