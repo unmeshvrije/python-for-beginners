@@ -19,7 +19,7 @@ Enter a number to double: 5
 ```
 
 # 3. How long is it
-Write a program that counts how many letters are there in an input string. Beware of counting “Punctuation Characters” like space, comma, period, question and exclamation marks. 
+Write a program that counts how many letters are there in an input string. Beware of not counting “Punctuation Characters” like space, comma, period, question and exclamation marks. 
 
 * __Example Output__:
 ```
@@ -76,8 +76,8 @@ number is divisible by 3 or 4 as well.
 
 
 # 7. Simple Area Calculator
-Write a program that calculates the area of a rectangle triangle or a circle.
-Ask the user for the shape and based on it ask for the needed values to perform the operation. height and base for triangle, length and width for rectangle and radius for a circle.
+Write a program that calculates the area of a rectangle, triangle or a circle.
+Ask the user for the shape and based on it ask for the needed values to perform the operation. height and base for a triangle, length and width for a rectangle and radius for a circle.
 
 * __Output__: 
 
@@ -107,32 +107,38 @@ Enter a temperature value: 32F
 ```
 > Note: 
 > - T(°C) = (T(°F) - 32) / 1.8
-> - T(°F)=T(°C)× 1.8 + 32
+> - T(°F) = T(°C)× 1.8 + 32
 
 
-# 9.How many Years in this many Days 
-Write a program that converts a number of days into years weeks and days.  
-
+# 9.How many Years between two Dates
+Write a program that takes 2 dates and calculates how many years, weeks and days are there between them.
+You can make use of the `datetime` library.
 * __Output__:
  
-`That is <years> years, <weeks> weeks and <days> days.`
+`In <totalDays> days, there is <years> years, <weeks> weeks and <days> days.`
 
 * __Example output__:
 ```
-Enter the number of days: 382
-That is 1 years, 2 weeks and 3 days
+Enter the first date: 31-12-2000
+Enter the second date: 17-01-2002
+In 382 days, there is 1 years, 2 weeks and 3 days.
 ```
-> Extra assignment: Change the program and make it consider a leap year for every 4 years.
+> Extra assignment: Change the program and make it report if a leap year exists between the 2 dates.
+> Note: To check if a year is a leap year follow [this algorithm](https://en.wikipedia.org/wiki/Leap_year#Algorithm) 
 
 
 # 10. Squares Table
 Write a program that helps students to memorize the square of numbers.
 - Ask the user for a square of a random number.
-- Check the input if it is correct or not and print a message with the result.
+- Check the input if it is correct or not.
+- If the answer was not correct, give the user at least 3 chances to answer before printing the correct answer.
+- The program keeps producing questions until the user enters `q` or `Exit`.
 * __Example output__:
 ```
 What is the square of 2: 6
-Not correct, the square of 2 is 4. 
+Not correct. 
+What is the square of 2: 4
+Correct! Keep it up.
 What is the square of 5: 25
 Correct! Keep it up.
 ```
@@ -141,7 +147,7 @@ Correct! Keep it up.
 
 # 11. Flow chart to code
 Flow-charting has been used for a long time when designing algorithms and programs. Write a function according to the flowchart shown below.
-[image]
+!["flowchart image"](./flowchart.png)
 The program should print the even numbers between 0 and max.
 Test that program with some input.
 * __Example output__:
@@ -169,7 +175,7 @@ Write a program that helps parents to choose a game for their kids and understan
 
 * __Example output__:
 ```
-Enter an age for a game advice: 14
+Enter age for a game advice: 14
 According to PEGI, A player of the age 14 can play games with labels 12, 7 and 3.
 Games labeled with 12 contain violence towards fictional characters and mild language.
 ```
@@ -190,11 +196,11 @@ It is half past one in the afternoon
 
 
 # 14. Fibonacci sequence
-write a program that prints the Fibonacci sequence from F(1) to F(n), while n is the user input value.
+write a program that prints the Fibonacci sequence from F(0) to F(n), while n is the user input value.
 * __Example output__:
 ```
 Enter a number: 6
-1 1 2 3 5 8
+0 1 1 2 3 5 8
 ```
 
 # 15. Reversed Factorial
@@ -210,32 +216,17 @@ The number 40320 is the result of 8!
 ```
 > Extra assignment: Let the program report if the input is not a factorial of an integer. Then ask for a new input.
 
-# 16. First and Last
-Write a program that prints the first and the last weekday in your country. 
-Create a tuple that contains the names of weekdays starting from the first day of the week in your country. 
-Print the full tuple and a string that includes the first and last day of the week.
-
-* __Output__: 
-
-`The first weekday in my country is <firstand the last is <last>.` 
-
-* __Example output__:
-```
-(‘Tuesday’, ‘Wednesday’, ‘Thursday’, ‘Friday’, ‘Saturday’, ‘Sunday’, ‘Monday’)
-The first weekday in my country is Tuesday and the last is Monday. 
-```
-
-# 17. The smallest and the biggest
+# 16. The smallest and the biggest
 Write a program that finds the smallest and the biggest number in a list.
-Create a list of at least 6 random arranged numbers using `random` library function `randint(start, end)`.
+Create a list of at least 15 random arranged numbers using `random` library function `randint(start, end)`.
 Print the list and then print your results
 
 * __Output__: 
 
 `The smallest number is <smallest>`
 
-`The biggest number is <largest>
-`
+`The biggest number is <largest>`
+
 * __Example output__:
 
 ```
@@ -246,9 +237,9 @@ The biggest number is 9
 > Extra assignment: The program also prints the range.
 
 
-# 18. The Average
+# 17. The Average
 Write a program that calculates the average of a list of numbers.
-Create a random list of at least 6 random arranged numbers using random library function randint(start, end).
+Create a random list of at least 15 random arranged numbers using random library function randint(start, end).
 print the list out and then print out the average.
 
 * __Output__: 
@@ -259,6 +250,6 @@ print the list out and then print out the average.
 [7, 2, 7, 9, 8, 3]
 The average is 6
 ```
-> Extra: The program also prints the mode of the list. In our case its 7.
+> Extra: The program also prints the mode of the list. In our case it's 7.
 
 http://pythontutor.com 
