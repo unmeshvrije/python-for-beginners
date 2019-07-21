@@ -255,4 +255,29 @@ The average is 6
 ```
 > Extra: The program also prints the mode of the list. In our case it's 7.
 
+# 18. Clans
+A Clan in video games is an organized group of players that regularly play together in one or more multiplayer games. The `Clan-Tag` is the first letter of each word in the `Clan-Name` in capital. It is usually shown between 2 square brackets next to the player name, for example: `[CLAN]playername`.
+
+Write a program that generates `Clan-Tags` form `Clan Names`. 
+- The Clan name should be at least 2 words separated by a space.
+- The program prints the `Clan-Tag` when given a `Clan Name` (more than 2 words).
+- The program prints the `Clan Name` when given a `Clan-Tag` (one word).
+- Use a dictionary to store the Tags and Names. One entry might be like: `{"TBG", "the best clan"}`
+- The program stops when "q" is entered.
+
+* __Example output__:
+```
+Enter a string: Apple Butter Charlie Duff
+[ABCD]
+
+Enter a string: Nation Motion Revolution
+[NMR]
+
+Enter a string: ABCD
+Apple Butter Charlie Duff
+
+Enter a string: XYZ
+not found
+
+```
 http://pythontutor.com 
