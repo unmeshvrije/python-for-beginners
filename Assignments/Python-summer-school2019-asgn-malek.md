@@ -148,14 +148,15 @@ Correct! Keep it up.
 # 11. Flow chart to code
 Flow-charting has been used for a long time when designing algorithms and programs. Write a function according to the flowchart shown below.
 
-!["flowchart image"](./flowchart.png)
-
+<p align="center">
+    <img width="337" height="675" src="./flowchart.png">
+<p>
 The program should print the even numbers between 0 and max.
 Test that program with some input.
 * __Example output__:
 
 ```
-Enter the a number: 9
+Enter a number: 9
 0
 2
 4
