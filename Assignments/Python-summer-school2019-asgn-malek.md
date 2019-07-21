@@ -151,6 +151,7 @@ Flow-charting has been used for a long time when designing algorithms and progra
 <p align="center">
     <img width="337" height="675" src="./flowchart.png">
 <p>
+
 The program should print the even numbers between 0 and max.
 Test that program with some input.
 * __Example output__:
