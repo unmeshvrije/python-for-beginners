@@ -34,12 +34,12 @@ Write a program that counts how many vowels (a, e, i, o, u) and consonants are t
 
 * __Output__: 
 
-`<inputhas <numVowels> vowels and <numConst> constants.`
+`<inputhas <numVowels> vowels and <numConst> consnonants.`
 
 * __Example output__:
 ```
 Enter a word: Beautiful
-Beautiful has 5 vowels and 4 constants.
+Beautiful has 5 vowels and 4 consnonants.
 ```
 > Extra assignment: The program also can count consonants and vowels in a string. Beware of counting “Punctuation Characters” like space, comma, period, question and exclamation marks.
 
