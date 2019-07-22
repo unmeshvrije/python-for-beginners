@@ -1,0 +1,8 @@
+
+
+ESC + a : Insert one cell above
+ESC + b : Insert one cell below
+ESC + m : change the cell to MARKDOWN mode
+ESC + y : change the cell to Code mode
+ESC + dd: to delete the current cell
+SHIFT + ENTER : to run the cell
