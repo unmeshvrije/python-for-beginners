@@ -10,8 +10,10 @@ theirs. Try to generate the following conversation:
 
 * __Example output__:
 ```
-He. What is your name? *Emily*
-Hello, Emily. My name is Robert. How old are you? *25*
+
+He. What is your name: Emily
+Hello, Emily. My name is Robert. How old are you: 25
+
 Data registered: 
 Name: Emily
 Age: 25 
@@ -25,11 +27,13 @@ Write a program that prints whatever the user has entered.
 ```
 Enter anything: anything
 anything
+Enter anything: 42
+42
 ```
 > Extra assignment: The program keeps repeating words until the user enters “exit” then it stops.
 
 
-# 3. Make it double
+# 4. Make it double
 Write a program that takes a number as input and prints out the number times two.
 
 * __Example output__:
@@ -49,5 +53,6 @@ Write a program that asks the user for his name, country of birth, and field of 
 What is your name: John Doe
 Where are you from: Mars
 What do you study: Medicine
-Hello John Doe, I hope you had a nice travel from Mars. I am pretty sure that learning programming is useful in Medicine.
+Hello John Doe, I hope you had a nice travel from Mars. 
+I am pretty sure that learning programming is useful in Medicine.
 ```
