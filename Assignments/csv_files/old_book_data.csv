@@ -1,0 +1,356 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,ratings_count,text_reviews_count
+1,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling-Mary GrandPré,4.56,0439785960,9780439785969,eng,652,1944099,26249
+2,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling-Mary GrandPré,4.49,0439358078,9780439358071,eng,870,1996446,27613
+3,Harry Potter and the Sorcerer's Stone (Harry Potter  #1),J.K. Rowling-Mary GrandPré,4.47,0439554934,9780439554930,eng,320,5629932,70390
+4,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.41,0439554896,9780439554893,eng,352,6267,272
+5,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling-Mary GrandPré,4.55,043965548X,9780439655484,eng,435,2149872,33964
+8,Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5),J.K. Rowling-Mary GrandPré,4.78,0439682584,9780439682589,eng,2690,38872,154
+9,Unauthorized Harry Potter Book Seven News: "Half-Blood Prince" Analysis and Speculation,W. Frederick Zimmerman,3.69,0976540606,9780976540601,en-US,152,18,1
+10,Harry Potter Collection (Harry Potter  #1-6),J.K. Rowling,4.73,0439827604,9780439827607,eng,3342,27410,820
+12,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,0517226952,9780517226957,eng,815,3602,258
+13,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,4.38,0345453743,9780345453747,eng,815,240189,3954
+14,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams,4.22,1400052920,9781400052929,eng,215,4416,408
+16,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams-Stephen Fry,4.22,0739322206,9780739322208,eng,6,1222,253
+18,The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy #1-5),Douglas Adams,4.38,0517149257,9780517149256,en-US,815,2801,192
+21,A Short History of Nearly Everything,Bill Bryson-William Roberts,4.20,076790818X,9780767908184,eng,544,228522,8840
+22,Bill Bryson's African Diary,Bill Bryson,3.43,0767915062,9780767915069,eng,55,6993,470
+23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,3.88,0767910435,9780767910439,eng,256,2020,124
+24,In a Sunburned Country,Bill Bryson,4.07,0767903862,9780767903868,eng,335,68213,4077
+25,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,3.90,076790382X,9780767903820,eng,304,47490,2153
+26,The Lost Continent: Travels in Small Town America,Bill Bryson,3.83,0060920084,9780060920081,en-US,299,43779,2146
+27,Neither Here nor There: Travels in Europe,Bill Bryson,3.87,0380713802,9780380713806,eng,254,46397,2127
+28,Notes from a Small Island,Bill Bryson,3.92,0380727501,9780380727506,eng,324,76476,3159
+29,The Mother Tongue: English and How It Got That Way,Bill Bryson,3.94,0380715430,9780380715435,eng,270,26672,1986
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.59,0345538374,9780345538376,eng,1728,97731,1536
+31,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien,4.49,0618517650,9780618517657,eng,1184,1670,91
+32,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien,4.49,0618346244,9780618346240,eng,1137,2819,139
+34,The Fellowship of the Ring (The Lord of the Rings  #1),J.R.R. Tolkien,4.35,0618346252,9780618346257,eng,398,2009749,12784
+35,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien-Alan  Lee,4.49,0618260587,9780618260584,en-US,1216,1606,139
+36,The Lord of the Rings: Weapons and Warfare,Chris   Smith-Christopher  Lee-Richard Taylor,4.53,0618391002,9780618391004,eng,218,18934,43
+37,The Lord of the Rings: Complete Visual Companion,Jude Fisher,4.50,0618510826,9780618510825,eng,224,343,6
+38,The Lord of the Rings Box Set,J.R.R. Tolkien,4.49,0618153977,9780618153978,eng,1223,216,19
+40,Cooking with Fernet Branca (Gerald Samper  #1),James Hamilton-Paterson,3.61,193337201X,9781933372013,eng,288,1214,202
+45,Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas-David Heinemeier Hansson-Leon Breedt-Mike Clark-Thomas  Fuchs-Andreas  Schwarz,3.89,097669400X,9780976694007,eng,558,1269,59
+50,Hatchet,Gary Paulsen,3.70,0689840926,9780689840920,eng,208,254827,11346
+51,Hatchet: A Guide for Using "Hatchet" in the Classroom,Donna Ickes-Edward Sciranko-Keith Vasconcelles,3.97,1557344493,9781557344496,eng,48,35,2
+53,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,3.87,0385326505,9780385326506,eng,144,1996,326
+54,Molly Hatchet - 5 of the Best,Molly Hatchet,4.33,1575606240,9781575606248,eng,56,6,0
+55,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,3.48,1595580271,9781595580276,en-US,228,99,16
+57,A Changeling for All Seasons (Changeling Seasons #1),Angela Knight-Sahara Kelly-Judy Mays-Marteeka Karland-Kate Douglas-Shelby Morgen-Lacey Savage-Kate Hill-Willa Okati,3.75,1595962808,9781595962805,eng,304,167,4
+58,Changeling (Changeling  #1),Delia Sherman,3.60,0670059676,9780670059676,eng,256,957,112
+59,The Changeling Sea,Patricia A. McKillip,4.07,0141312629,9780141312620,eng,137,4319,289
+61,The Changeling,Zilpha Keatley Snyder,4.17,0595321801,9780595321803,eng,228,1155,92
+63,The Changeling,Kate Horsley,3.56,1590301943,9781590301944,eng,339,295,42
+66,The Changeling (Daughters of England  #15),Philippa Carr,3.99,0449146979,9780449146972,eng,369,341,12
+67,The Known World,Edward P. Jones,3.83,0061159174,9780061159176,eng,388,28962,2576
+68,The Known World,Edward P. Jones-Kevin R. Free,3.83,006076273X,9780060762735,en-US,14,50,12
+69,The Known World,Edward P. Jones,3.83,0060749911,9780060749910,eng,576,22,3
+71,Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives,Satyajit Das,3.83,0273704745,9780273704744,eng,334,1398,78
+72,Artesia: Adventures in the Known World,Mark Smylie,4.16,1932386106,9781932386103,eng,352,50,4
+73,The Known World,Edward P. Jones,3.83,096513671X,9780965136716,eng,388,15,2
+74,The John McPhee Reader (John McPhee Reader  #1),John McPhee-William Howarth,4.43,0374517193,9780374517199,eng,416,550,36
+75,Uncommon Carriers,John McPhee,3.95,0374280398,9780374280390,en-US,248,1561,192
+76,Heirs of General Practice,John McPhee,4.15,0374519749,9780374519742,eng,128,253,18
+77,The Control of Nature,John McPhee,4.24,0374522596,9780374522599,en-US,288,3365,290
+78,Annals of the Former World,John McPhee,4.33,0374518734,9780374518738,eng,720,2966,211
+79,Coming Into the Country,John McPhee,4.22,0374522871,9780374522872,eng,448,5452,245
+80,La Place de la Concorde Suisse,John McPhee,3.91,0374519323,9780374519322,eng,160,671,52
+81,Giving Good Weight,John McPhee,4.22,0374516006,9780374516000,eng,288,533,34
+83,Rising from the Plains,John McPhee,4.22,0374520658,9780374520656,eng,208,1263,91
+85,The Heidi Chronicles,Wendy Wasserstein,3.73,0822205106,9780822205104,eng,81,1348,69
+86,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,3.83,0679734996,9780679734994,eng,249,2732,63
+89,Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening,Heidi Hayes Jacobs,3.94,1596670231,9781596670235,eng,138,31,1
+90,Simply Beautiful Beaded Jewelry,Heidi Boyd,3.75,1581807740,9781581807745,en-US,128,61,4
+91,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker-Rolland Baker,4.45,0800793617,9780800793616,eng,192,822,53
+92,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,3.70,0871202867,9780871202864,en-US,72,71,2
+93,Heidi,Johanna Spyri-Beverly Cleary-Angelo  Rinaldi,3.98,0753454947,9780753454947,eng,352,150657,2175
+94,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,3.28,0871209993,9780871209993,eng,192,53,5
+96,There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker-Heidi Baker,4.45,1852402873,9781852402877,eng,192,34,6
+98,What to Expect the First Year (What to Expect),Heidi Murkoff-Sharon Mazel-Heidi Murkoff-Arlene Eisenberg-Sandee Hathaway-Mark D. Widome,3.88,0761129588,9780761129585,eng,832,11489,658
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss-Libby Keatinge,3.82,0972016414,9780972016414,eng,123,34,8
+100,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.75,1581805632,9781581805635,en-US,128,75,4
+103,God Emperor of Dune (Dune Chronicles  #4),Frank Herbert,3.83,0441294677,9780441294671,eng,423,2692,168
+105,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,3.90,0441102670,9780441102679,eng,436,38651,552
+106,Dune Messiah (Dune Chronicles #2),Frank Herbert,3.87,0441172695,9780441172696,eng,331,96649,2306
+107,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,4.00,0765306476,9780765306470,en-US,592,755,21
+109,Heretics of Dune (Dune Chronicles  #5),Frank Herbert,3.85,0399128980,9780399128981,eng,480,261,18
+110,The Road to Dune (Dune Universe),Frank Herbert-Brian Herbert-Kevin J. Anderson,3.87,0765353709,9780765353702,eng,426,4561,76
+112,Children of Dune (Dune Chronicles #3),Frank Herbert,3.92,0441104029,9780441104024,eng,408,84276,1370
+117,Heretics of Dune (Dune Chronicles #5),Frank Herbert,3.85,0441328008,9780441328000,eng,471,45211,616
+122,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,034541005X,9780345410054,eng,544,66687,4445
+123,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,0385732546,9780385732543,eng,291,44,12
+129,The Power of One: One Person  One Rule  One Month,John C. Maxwell-Stephen R. Graves-Thomas G. Addington,4.28,0785260056,9780785260059,en-US,256,16,1
+130,Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,3.31,0471780936,9780471780939,eng,205,163,16
+131,The Power of One: The Solo Play for Playwrights  Actors  and Directors,Louis E. Catron,3.79,0325001537,9780325001531,eng,240,10,0
+132,How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days,Adam Ginsberg,3.49,006076287X,9780060762872,eng,336,73,9
+133,eBay for Dummies,Marsha Collier,3.50,0470045299,9780470045299,eng,386,102,9
+135,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta-Lisa Suttora,3.62,0072262788,9780072262780,eng,260,24,0
+137,Starting an eBay Business for Dummies,Marsha Collier,3.52,0764569244,9780764569241,eng,384,51,4
+138,eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,4.27,0471933821,9780471933823,eng,260,9,0
+139,ebay Timesaving Techniques for Dummies,Marsha Collier,3.55,0764559915,9780764559914,en-US,391,19,1
+140,eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,3.89,0764584383,9780764584381,en-US,864,17,3
+141,Ruby Cookbook,Lucas Carlson-Leonard Richardson,3.82,0596523696,9780596523695,eng,873,163,4
+142,Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,4.09,0806523492,9780806523491,eng,240,47,5
+144,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,4.08,0806525363,9780806525365,eng,206,12,2
+147,Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,3.65,0596527314,9780596527310,eng,514,49,1
+151,Anna Karenina,Leo Tolstoy-Richard Pevear-Larissa Volokhonsky,4.04,0143035002,9780143035008,eng,838,15747,1795
+152,Anna Karenina,Leo Tolstoy-David Magarshack-Priscilla Meyer,4.04,0451528611,9780451528612,eng,960,108970,5694
+153,Anna Karenina,Leo Tolstoy-Richard Pevear-Larissa Volokhonsky-John Bayley,4.04,0140449175,9780140449174,eng,837,2835,300
+154,CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman-Leo Tolstoy,3.89,0822001837,9780822001836,eng,80,15,3
+155,Anna Karenina,Leo Tolstoy-Amy Mandelker-Constance Garnett,4.04,1593080271,9781593080273,eng,803,9362,710
+156,Anna Karenina,Leo Tolstoy-Louise Maude-Aylmer Maude,4.04,0486437965,9780486437965,eng,752,460,71
+157,Anna Karenina,Leo Tolstoy-Constance Garnett-Amy Mandelker,4.04,1593081774,9781593081775,eng,803,298,47
+159,Dinner with Anna Karenina,Gloria Goldreich,2.96,0778322270,9780778322276,eng,368,400,64
+160,Tolstoy: Anna Karenina,Anthony Thorlby,4.19,0521313252,9780521313254,eng,128,1191,32
+162,Untouchable,Mulk Raj Anand-E.M. Forster,3.70,0140183957,9780140183955,eng,160,3168,250
+163,The Untouchable,John Banville,3.96,0679767479,9780679767473,eng,367,2077,209
+164,The Untouchables,Eliot Ness-Oscar Fraley,3.89,1568491980,9781568491981,eng,256,587,29
+165,Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,Narendra Jadhav,3.82,0743270797,9780743270793,en-US,320,299,39
+166,Dalit: The Black Untaouchables of India,V.T. Rajshekar-Y.N. Kly,4.33,0932863051,9780932863058,eng,100,9,0
+168,Growing Up Untouchable in India: A Dalit Autobiography,Vasant Moon-Gail Omvedt-Eleanor Zelliot,3.58,0742508803,9780742508804,eng,224,16,4
+171,The Evidence-Based Social Work Skills Book,Barry R. Cournoyer,3.40,0205358624,9780205358625,eng,216,10,0
+177,A Wrinkle in Time: A Guide for Using "A Wrinkle in Time" in the Classroom,John Carratello-Patty Carratello-Theresa Wright,3.94,1557344035,9781557344038,eng,48,17,0
+180,Wrinkles in Time,George Smoot-Keay Davidson,3.99,0380720442,9780380720446,en-US,360,985,23
+181,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,4.01,0821925326,9780821925324,eng,250,37,7
+182,Literature Circle Guide: A Wrinkle in Time,Tara MacCarthy,3.57,043927169X,9780439271691,eng,32,14,0
+201,Una arruga en el tiempo – A Wrinkle in Time,Madeleine L'Engle,4.01,0606105263,9780606105262,spa,205,6,1
+204,The Long Shadow (The Morland Dynasty  #6),Cynthia Harrod-Eagles,4.11,0751506435,9780751506433,eng,367,366,16
+205,A Long Shadow (Inspector Ian Rutledge  #8),Charles Todd,4.11,006078671X,9780060786717,eng,352,2934,222
+207,Long Way Round: Chasing Shadows Across the World,Ewan McGregor-Charley Boorman-Robert Uhlig,3.94,0743499344,9780743499347,en-US,320,346,45
+208,A Shadow in Summer (Long Price Quartet  #1),Daniel Abraham,3.60,0765313405,9780765313409,eng,331,9530,604
+213,New Hope for the Dead (Hoke Mosely #2),Charles Willeford-James Lee Burke,3.91,1400032490,9781400032495,eng,244,770,72
+214,Sideswipe: A Hoke Moseley Novel,Charles Willeford-Lawrence Block,4.04,1400032482,9781400032488,eng,215,688,68
+216,Miami Blues (Hoke Mosely #1),Charles Willeford-Elmore Leonard,3.94,1400032466,9781400032464,eng,191,2739,158
+231,I am Charlotte Simmons,Tom Wolfe,3.41,0312424442,9780312424442,eng,738,20508,1686
+237,Poetry for Young People: Edward Lear,Edward Lear-Laura Huliska-Beith-Edward Mendelson,3.90,0806930772,9780806930770,eng,48,64,18
+244,The Puffin Book of Nonsense Verse,Quentin Blake,4.04,0140366601,9780140366600,eng,287,76,6
+245,Henry Miller on Writing,Henry Miller-Thomas H. Moore,4.23,0811201120,9780811201124,eng,217,937,50
+247,Quiet Days in Clichy,Henry Miller,3.69,080213016X,9780802130167,eng,154,3237,134
+249,Tropic of Cancer,Henry Miller-Jiří Níl,3.69,0802131786,9780802131782,eng,318,50905,2290
+250,Tropic of Capricorn,Henry Miller,3.82,0802151825,9780802151827,eng,348,13549,448
+251,Nexus (The Rosy Crucifixion  #3),Henry Miller,4.09,0802151787,9780802151780,eng,316,3181,53
+252,Sexus (The Rosy Crucifixion  #1),Henry Miller,4.04,0802151809,9780802151803,eng,506,7024,248
+253,The Air-Conditioned Nightmare,Henry Miller,3.83,0811201066,9780811201063,eng,292,2627,142
+264,The Portrait of a Lady,Henry James-Patricia Crick,3.77,0141439637,9780141439631,eng,797,60027,1854
+269,The Portrait of a Lady,Henry James-Gabriel Brownstein-Mary Cregan,3.77,1593080964,9781593080969,eng,635,386,40
+275,The Lover,Marguerite Duras-Barbara Bray-Maxine Hong Kingston,3.75,0375700528,9780375700521,eng,117,22014,1363
+278,The War,Marguerite Duras-Barbara Bray-قلسم روبین,3.85,1565842219,9781565842212,eng,192,918,62
+280,The Ravishing of Lol Stein,Marguerite Duras-Richard Seever,3.67,0394743040,9780394743042,en-US,181,1939,122
+281,Destroy  She Said,Marguerite Duras-Barbara Bray-Helen Lane Cumberford,3.68,080215154X,9780802151544,eng,133,532,41
+283,L'Amant de la Chine du Nord,Marguerite Duras,3.89,2070388093,9782070388097,fre,246,312,23
+285,Love Letters,Kahlil Gibran-Suheil Bushrui-Salma H. Al-Kuzbari,3.67,1851681825,9781851681822,eng,178,201,9
+288,Kahlil Gibran: His Life and World,Jean Gibran-جبران خليل جبران-Kahlil Gibran,4.20,156656249X,9781566562492,eng,464,33,2
+289,The Beloved: Reflections on the Path of the Heart,Kahlil Gibran-John Walbridge-Robin Waterfield,4.19,014019553X,9780140195538,eng,102,320,16
+290,Jesus the Son of Man,Kahlil Gibran-جبران خليل جبران,3.98,0394431243,9780394431246,eng,216,1272,78
+291,The Broken Wings,Kahlil Gibran-جبران خليل جبران-Anthony R. Ferris,3.92,0806501901,9780806501901,eng,132,6175,492
+292,Sand and Foam,Kahlil Gibran-جبران خليل جبران,4.08,067943920X,9780679439202,eng,100,2893,210
+295,Treasure Island,Robert Louis Stevenson,3.83,0753453800,9780753453803,eng,311,301399,6160
+296,Treasure Island,Robert Louis Stevenson-Scott McKowen,3.83,1402714572,9781402714573,en-US,213,393,41
+297,Treasure Island,Robert Louis Stevenson,3.83,1416500294,9781416500292,eng,245,5900,270
+298,Treasure Island,Robert Louis Stevenson-N.C. Wyeth-Timothy Meis,3.83,0689854684,9780689854682,eng,64,103,16
+299,Treasure Island,Robert Louis Stevenson-Milo Winter,3.83,0517221144,9780517221143,en-US,272,56,4
+302,Treasure Island (Great Illustrated Classics),Deidre S. Laiken-A.J. McAllister-Robert Louis Stevenson,4.04,1577658051,9781577658054,eng,232,85,18
+304,Daniel Deronda,George Eliot-Edmund White,3.83,037576013X,9780375760136,eng,796,19852,601
+313,100 Years of Lynchings,Ralph Ginzburg,4.63,0933121180,9780933121188,eng,270,81,4
+320,One Hundred Years of Solitude,Gabriel García Márquez-Gregory Rabassa,4.06,0060531045,9780060531041,eng,417,547207,15763
+324,Cien años de soledad,Gabriel García Márquez,4.06,0785950109,9780785950103,spa,448,54,6
+325,Cien años de soledad,Gabriel García Márquez,4.06,8423919005,9788423919000,spa,456,73,8
+330,On Beyond Zebra!,Dr. Seuss,4.04,0394800842,9780394800844,eng,64,2724,153
+332,The Wedding Clause,Debbie Raleigh,3.58,0821778250,9780821778258,eng,256,89,11
+333,The Zebra Wall,Kevin Henkes,3.46,0060733039,9780060733032,eng,147,206,23
+337,El perfume: Historia de un asesino,Patrick Süskind,4.02,8432216062,9788432216060,spa,239,3956,242
+338,Jitterbug Perfume,Tom Robbins,4.24,0553348981,9780553348989,eng,352,4157,393
+343,Perfume: The Story of a Murderer,Patrick Süskind-John E. Woods,4.02,0140120831,9780140120837,eng,263,212561,7070
+347,Off the Main Sequence: The Other Science Fiction Stories of Robert A. Heinlein,Robert A. Heinlein,4.01,1582881847,9781582881843,eng,738,250,17
+348,The Door Into Summer,Robert A. Heinlein,4.01,0345413997,9780345413994,eng,304,16743,617
+349,The Moon is a Harsh Mistress,Robert A. Heinlein,4.17,0312863551,9780312863555,eng,382,3667,416
+350,Stranger in a Strange Land,Robert A. Heinlein,3.92,0441788386,9780441788385,eng,528,241727,5985
+352,The Notebooks of Lazarus Long,Robert A. Heinlein-Stephen Hickman,4.07,074348844X,9780743488440,en-US,56,3192,23
+354,To Sail Beyond the Sunset,Robert A. Heinlein,3.87,0441748600,9780441748600,en-US,434,10140,187
+355,Job: A Comedy of Justice,Robert A. Heinlein,3.78,0345316509,9780345316509,en-US,439,15580,422
+356,Time for the Stars (Heinlein's Juveniles  #10),Robert A. Heinlein,3.97,0765314932,9780765314932,eng,256,6723,188
+357,The Long Dark Tea-Time of the Soul (Dirk Gently  #2),Douglas Adams,4.06,0671742515,9780671742515,en-US,307,65988,1353
+359,The Salmon of Doubt (Dirk Gently  #3),Douglas Adams,3.92,0345455290,9780345455291,eng,298,21562,722
+360,Mostly Harmless (Hitchhiker's Guide to the Galaxy  #5),Douglas Adams,3.97,0345418778,9780345418777,en-US,240,72235,1269
+362,Wish You Were Here: The Official Biography of Douglas Adams,Nick  Webb,4.14,0345476514,9780345476517,eng,368,2548,47
+367,Douglas Adams's Starship Titanic,Terry Jones,3.60,0345368436,9780345368430,eng,256,864,80
+377,Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams-Christopher Cerf,3.92,1417622857,9781417622856,eng,336,5,0
+378,The Phantom Tollbooth,Norton Juster-Jules Feiffer,4.21,0394820371,9780394820378,en-US,256,206193,8290
+382,The Phantom Tollbooth: A Children's Play in Two Acts,Susan Nanus-Norton Juster,4.10,0573650969,9780573650963,eng,72,94,13
+385,On Bullshit,Harry G. Frankfurt,3.57,0691122946,9780691122946,eng,67,8773,937
+386,Another Bullshit Night in Suck City,Nick Flynn,3.78,0393329402,9780393329407,eng,347,9053,907
+394,Lincoln at Gettysburg: The Words That Remade America,Garry Wills,4.13,0671867423,9780671867423,en-US,317,119,14
+397,The Gettysburg Address,Abraham Lincoln-Michael McCurdy,4.53,0395883970,9780395883976,eng,32,4967,69
+399,Underworld,Don DeLillo,3.92,0684848155,9780684848150,eng,827,1471,170
+400,Libra,Don DeLillo,3.99,0140156046,9780140156041,eng,480,11361,533
+402,Mao II,Don DeLillo,3.68,0140152741,9780140152746,eng,254,8085,411
+403,Americana,Don DeLillo,3.43,0140119485,9780140119480,eng,377,367,54
+404,Running Dog,Don DeLillo,3.42,0679722947,9780679722946,eng,256,1285,70
+406,Cosmopolis,Don DeLillo,3.22,0743244257,9780743244251,eng,224,449,40
+407,Great Jones Street,Don DeLillo,3.48,0140179178,9780140179170,eng,272,2385,137
+408,The Names,Don DeLillo,3.64,0679722955,9780679722953,eng,339,2990,201
+409,Against the Day,Thomas Pynchon,4.12,159420120X,9781594201202,eng,1085,5110,577
+410,V.,Thomas Pynchon,3.96,0060930217,9780060930219,eng,547,1364,176
+411,The Crying of Lot 49,Thomas Pynchon,3.70,0060931671,9780060931674,eng,152,2132,229
+412,Gravity's Rainbow,Thomas Pynchon,4.02,0140283382,9780140283389,eng,784,752,211
+413,Mason & Dixon,Thomas Pynchon,4.06,0312423209,9780312423209,eng,773,7756,570
+414,Vineland,Thomas Pynchon,3.68,0141180633,9780141180632,en-US,385,668,64
+415,Gravity's Rainbow,Thomas Pynchon,4.02,0143039946,9780143039945,eng,776,28034,2058
+416,Slow Learner: Early Stories,Thomas Pynchon,3.50,0316724432,9780316724432,eng,193,322,32
+418,Been Down So Long It Looks Like Up To Me,Richard Fariña-Thomas Pynchon,3.81,0140189300,9780140189308,eng,352,2356,215
+420,The Year of Magical Thinking,Joan Didion,3.88,140004314X,9781400043149,en-US,227,2507,328
+421,The White Album,Joan Didion,4.17,0374522219,9780374522216,eng,222,10584,651
+422,A Book of Common Prayer,Joan Didion,3.80,0679754865,9780679754862,eng,272,2790,238
+423,Where I Was From,Joan Didion,3.86,0679752862,9780679752868,eng,240,2665,282
+425,Democracy,Joan Didion,3.81,0679754857,9780679754855,en-US,234,1963,165
+426,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion-John Leonard,4.49,0307264874,9780307264879,eng,1122,1486,107
+428,Play It as It Lays,Joan Didion-David Thomson,3.87,0374529949,9780374529949,eng,231,21868,1577
+431,The New York Trilogy,Paul Auster-Art Spiegelman-Luc Sante,3.90,0143039830,9780143039839,eng,308,40276,1794
+432,City of Glass (The New York Trilogy  #1),Paul Auster,3.79,0140097317,9780140097313,eng,203,11696,696
+434,Ghosts (The New York Trilogy  #2),Paul Auster,3.65,014009735X,9780140097351,eng,96,3443,185
+435,The Locked Room (The New York Trilogy  #3),Paul Auster,3.89,0940650762,9780940650763,eng,179,2818,153
+444,Pyramids of Montauk: Explorations in Consciousness,Peter Moon-Preston B. Nichols-Nina Helms,3.91,0963188925,9780963188922,eng,256,70,2
+446,The Brooklyn Follies,Paul Auster,3.83,0312426232,9780312426231,eng,306,17317,1138
+447,Moon Palace,Paul Auster,3.98,0140115854,9780140115857,eng,320,14594,475
+449,Timbuktu,Paul Auster,3.68,0312263996,9780312263997,eng,181,9200,599
+450,Neon Lit: Paul Auster's City of Glass,Paul Karasik-David Mazzucchelli-Paul Auster-Bob Callahan,3.92,038077108X,9780380771080,eng,129,120,18
+453,The Music of Chance,Paul Auster,3.90,0140154078,9780140154078,en-US,217,354,35
+454,Travels in the Scriptorium,Paul Auster,3.23,0805081453,9780805081459,eng,145,6492,558
+456,Leviathan,Paul Auster,3.95,0140178139,9780140178135,eng,275,11238,420
+463,The Red Notebook: True Stories,Paul Auster,3.77,0811214982,9780811214988,eng,104,2306,114
+466,Timbuktu / Leviathan / Moon Palace,Paul Auster,4.40,2742741461,9782742741465,fre,1075,20,1
+472,Why Write?,Paul Auster,3.77,1886224145,9781886224148,eng,58,126,13
+475,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,3.93,0143036556,9780143036555,eng,608,49219,2672
+476,The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb-Glen C. Strathy,3.39,0446579785,9780446579780,en-US,211,207,26
+477,Collapse of Complex Societies,Joseph A. Tainter,4.13,052138673X,9780521386739,eng,262,676,87
+478,Bowling Alone: The Collapse and Revival of American Community,Robert D. Putnam,3.79,0743203046,9780743203043,eng,544,4418,479
+481,The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,Philip K. Howard,3.92,034543871X,9780345438713,eng,272,58,4
+484,Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,Joy Harjo-Gloria Bird-Beth Cuthand-Valerie Martinez-Patricia Blanco,4.39,0393318281,9780393318289,eng,576,269,19
+493,My Inventions,Nikola Tesla,4.01,1599869942,9781599869940,eng,88,2506,224
+494,Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,Marc J.  Seifer-William H. Terbo,3.77,0806519606,9780806519609,eng,542,2613,313
+497,Nikola Tesla: A Spark of Genius,Carol Dommermuth-Costa,3.95,0822549204,9780822549208,eng,144,102,5
+498,Tesla Papers,Nikola Tesla-David Hatcher Childress,4.12,0932813860,9780932813862,eng,100,100,2
+505,The Invention of Tradition,Eric Hobsbawm-Terence O. Ranger-Hugh Trevor-Roper-Prys Morgan-David Cannadine-Bernard S. Cohn,3.96,0521437733,9780521437738,eng,320,765,41
+511,Boys of Summer,Julie Elizabeth Leto-Leslie Kelly-Kimberly Raye,3.77,0373792689,9780373792689,eng,256,474,12
+515,Programming Ruby: The Pragmatic Programmers' Guide,Dave Thomas-Chad Fowler-Andy Hunt,4.04,0974514055,9780974514055,en-US,828,1525,52
+523,Golding's Lord of the Flies (Cliffs Notes),Maureen Kelly-CliffsNotes-William Golding,3.92,0764585975,9780764585975,eng,112,66,7
+524,Lord of the Flies,William Golding,3.67,0307281701,9780307281708,eng,6,369,86
+525,Lord of the Flies,William Golding-Ben Gibson-E.M. Forster-Edmund L. Epstein,3.67,0399529209,9780399529207,eng,336,1122,153
+531,A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War,Victor Davis Hanson,4.11,0812969707,9780812969702,eng,397,1601,92
+534,We Were Not Like Other People,Ephraim Sevela-Antonina W. Bouis,4.15,0060255080,9780060255084,eng,216,1,0
+537,The Lovely Bones,Alice Sebold,3.79,0330485385,9780330485388,en-GB,328,6315,960
+538,The Lovely Bones,Alice Sebold,3.79,159413023X,9781594130236,en-US,532,366,75
+539,Lovely in Her Bones (Elizabeth MacPherson  #2),Sharyn McCrumb,3.81,0345360354,9780345360359,eng,224,1346,40
+565,The Zen of CSS Design: Visual Enlightenment for the Web,Dave Shea-Molly E. Holzschlag,4.00,0321303474,0785342303476,en-US,296,767,28
+570,HTML  XHTML  and CSS (Visual Quickstart Guide),Elizabeth Castro,3.80,0321430840,9780321430847,en-US,456,540,43
+576,1000 Record Covers,Michael Ochs-Patrick Javault-Ulrike Wasel,3.84,3822840858,9783822840856,mul,575,274,28
+597,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,3.83,0743264460,9780743264464,eng,245,25004,1104
+599,Sex  Drugs  and Cocoa Puffs: A Low Culture Manifesto,Chuck Klosterman,3.74,0743236017,9780743236010,eng,272,59646,3341
+604,Reefer Madness: Sex  Drugs  and Cheap Labor in the American Black Market,Eric Schlosser,3.77,0965762645,9780965762649,eng,310,125,10
+619,Vice (V  #8),Jane Feather,3.51,0553572490,9780553572490,eng,419,462,17
+629,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3.77,0060589469,9780060589462,eng,540,157734,6101
+639,Once Upon a Cool Motorcycle Dude,Kevin O'Malley-Carol Heyer-Scott Goto,4.08,0802789471,9780802789471,en-US,32,1730,267
+642,Guidebook to Zen and the Art of Motorcycle Maintenance,Ronald L. DiSanto-Thomas J. Steele,3.72,0688060692,9780688060695,en-GB,408,271,10
+643,Motorcycle Basics Techbook,John Harold Haynes,3.83,185960515X,9781859605158,eng,222,36,2
+650,LOGO Lounge: 2 000 International Identities by Leading Designers,Catharine M. Fishel-Bill Gardner,3.96,1592530877,9781592530878,eng,191,27,0
+655,The Death of Ivan Ilych And Other Stories,Leo Tolstoy-Hugh McLean,4.10,0451528808,9780451528803,eng,304,7123,257
+656,War and Peace,Leo Tolstoy-Henry Gifford-Aylmer Maude-Louise Maude,4.11,0192833987,9780192833983,eng,1392,201919,5903
+658,The Kingdom of God Is Within You,Leo Tolstoy-Constance Garnett,4.13,0486451380,9780486451381,eng,352,2256,191
+661,Hunters Of Dune (Dune Chronicles  #7),Brian Herbert-Kevin J. Anderson,3.65,0340837489,9780340837481,en-GB,528,65,5
+662,Atlas Shrugged,Ayn Rand-Leonard Peikoff,3.68,0452011876,9780452011878,eng,1168,311883,14267
+663,For the New Intellectual: The Philosophy of Ayn Rand,Ayn Rand,3.68,0451163087,9780451163080,eng,224,2674,105
+664,The Fountainhead,Ayn Rand,3.86,0452286751,9780452286757,en-US,752,1860,228
+665,The Virtue of Selfishness: A New Concept of Egoism,Ayn Rand-Nathaniel Branden,3.50,0451163931,9780451163936,eng,176,11122,438
+667,Anthem,Ayn Rand,3.63,0452281253,9780452281257,eng,105,106642,6951
+668,We the Living,Ayn Rand-Leonard Peikoff,3.91,0451187849,9780451187840,eng,464,22587,1065
+669,Capitalism: The Unknown Ideal,Ayn Rand-Nathaniel Branden-Alan Greenspan-Robert Hessen,3.87,0451147952,9780451147950,eng,340,3426,153
+670,Letters of Ayn Rand,Ayn Rand-Michael S. Berliner-Leonard Peikoff,3.97,0452274044,9780452274044,eng,681,18,2
+672,Sailing for Dummies,J.J. Isler-Peter Isler,3.94,0471791431,9780471791430,eng,416,135,6
+675,Sailing from Byzantium: How a Lost Empire Shaped the World,Colin  Wells,3.87,0553803816,9780553803815,eng,368,602,78
+676,Sailing Alone Around the Room: New and Selected Poems,Billy Collins,4.23,0375755195,9780375755194,eng,192,11894,608
+678,The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories,Christopher Caswell,3.63,1592283195,9781592283194,eng,286,47,5
+681,Natural Cures "They" Don't Want You to Know about,Kevin Trudeau,3.08,0975599518,9780975599518,en-US,571,1575,283
+685,The Natural,Bernard Malamud-Kevin Baker,3.63,0374502005,9780374502003,eng,231,8568,639
+698,Digging to America,Anne Tyler,3.55,0307263940,9780307263940,eng,277,16703,1811
+700,Rereading America: Cultural Contexts for Critical Thinking and Writing,Gary Colombo-Bonnie Lisle,3.77,0312405545,9780312405540,eng,826,44,3
+702,Modern Latin America,Thomas E. Skidmore-Peter H. Smith,3.59,019517013X,9780195170139,en-US,528,221,10
+703,The Plot Against America,Philip Roth,3.75,1400079497,9781400079490,eng,391,31270,2749
+706,America (The Book): A Citizen's Guide to Democracy Inaction,Jon Stewart-Ben Karlin-David Javerbaum-Rich Bloomquist-Steve Bodow-Tim Carvell-Eric Drysdale-J.R. Havlan-Scott Jacobson-Tom Johnson-Rob Kutner-Chris Regan-Jason Reich-Jason Ross-Stephen Colbert-Samantha Bee-Rob Corddry-Brendan Hay-Ed Helms,4.02,0713998946,9780713998948,eng,228,79299,1118
+707,Naked Pictures of Famous People,Jon Stewart,3.59,0688171621,9780688171629,en-GB,164,8623,417
+759,Collected Stories,Gabriel García Márquez-Gregory Rabassa-J.S. Bernstein,4.19,0060932686,9780060932688,eng,352,6132,173
+762,Crónica de una muerte anunciada,Gabriel García Márquez,3.96,1400034957,9781400034956,spa,118,7210,371
+763,Cien años de soledad,Gabriel García Márquez,4.06,0307350428,9780307350428,spa,496,128,6
+764,Del amor y otros demonios,Gabriel García Márquez,3.98,0307350444,9780307350442,spa,176,3958,237
+765,Living to Tell the Tale,Gabriel García Márquez-Edith Grossman,3.98,140003454X,9781400034543,eng,533,390,48
+766,Memoria de mis putas tristes,Gabriel García Márquez,3.59,1400095808,9781400095803,spa,112,5065,312
+771,The Elegant Universe: Superstrings  Hidden Dimensions  and the Quest for the Ultimate Theory,Brian Greene,4.07,0375708111,9780375708114,eng,425,32578,1069
+775,Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman,Upasika Kee Nanayon-Thanissaro Bhikkhu,4.38,086171492X,9780861714926,eng,288,32,6
+787,The Mini Rough Guide to London,Rob Humphreys-Beth Chaplin-Rebecca Morrill,3.75,184353584X,9781843535843,eng,363,1,0
+792,London: City Guide (Lonely Planet City Guide),Lonely Planet-Sarah Johnstone-Tom Masters,4.03,1740598318,9781740598316,eng,466,38,5
+793,Best of London (Lonely Planet Best Of),Lonely Planet-Sarah Johnstone-Steve Fallon,4.09,1740594770,9781740594776,eng,128,9,0
+794,London,Lonely Planet-Steve Fallon-Pat Yale,4.03,186450353X,9781864503531,eng,400,7,0
+797,Lonely Planet Londres,Lonely Planet-Sarah Johnstone-Tom Masters,4.03,8408064762,9788408064763,spa,480,0,0
+799,Out to Eat London 2002 (Lonely Planet Out to Eat),Lonely Planet-Mark Honan,0.00,1740592050,9781740592055,eng,295,0,0
+815,Three Nights in August: Strategy  Heartbreak  and Joy Inside the Mind of a Manager,H.G. Bissinger,3.87,0618710531,9780618710539,eng,287,6560,235
+816,Cryptonomicon,Neal Stephenson,4.25,0060512806,9780060512804,eng,1139,80225,4104
+820,Golgotha (Cryptonomicon  #3),Neal Stephenson,4.13,2228894699,9782228894692,fre,420,5,1
+821,Le Réseau Kinakuta (Cryptonomicon  #2),Neal Stephenson,4.11,2228894168,9782228894166,fre,418,5,0
+822,The Confusion (The Baroque Cycle  #2),Neal Stephenson,4.25,0060733357,9780060733353,en-US,815,18790,552
+823,Quicksilver (The Baroque Cycle  #1),Neal Stephenson,3.93,0060593083,9780060593087,eng,927,29981,1682
+824,The Cobweb,Neal Stephenson-J. Frederick George,3.61,0553383442,9780553383447,eng,448,2391,129
+825,Zodiac,Neal Stephenson,3.71,0553573861,9780553573862,eng,308,14508,525
+826,The Big U,Neal Stephenson,3.25,0380816032,9780380816033,en-US,308,4545,218
+827,The Diamond Age: Or  A Young Lady's Illustrated Primer,Neal Stephenson,4.19,0553380966,9780553380965,eng,499,68751,2664
+828,Interface,Neal Stephenson-George F. Jewsbury-Stephen  Bury,3.67,0553383434,9780553383430,eng,640,4572,259
+829,Odalisque (The Baroque Cycle  Vol. 1  Book 3),Neal Stephenson,4.20,0060833181,9780060833183,en-US,464,1505,60
+830,Snow Crash,Neal Stephenson,4.03,0553380958,9780553380958,eng,438,187493,6601
+831,Snow Crash,Neal Stephenson-Joachim Körber,4.03,344245302X,9783442453023,ger,534,194,16
+834,Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume II: The Endgame,Dan Harrington-Bill Robertie,4.15,1880685353,9781880685358,eng,450,1413,30
+835,Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume I: Strategic Play,Dan Harrington-Bill Robertie,4.23,1880685337,9781880685334,eng,381,1855,73
+840,The Design of Everyday Things,Donald A. Norman,4.19,0465067107,9780465067107,eng,240,15854,1236
+841,Emotional Design: Why We Love (or Hate) Everyday Things,Donald A. Norman,3.94,0465051367,9780465051366,eng,272,3536,141
+842,The Psychology of Everyday Things,Donald A. Norman,4.19,0465067093,9780465067091,eng,257,258,30
+848,No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson,Alex C. Jones-Diane M. Hanson-Stephen K. Ray,4.26,0898709199,9780898709193,en-GB,259,48,6
+864,The Alchemist,Paulo Coelho-Alan R. Clarke-James Noel Smith,3.85,0060887966,9780060887964,eng,192,814,71
+865,The Alchemist,Paulo Coelho-Alan R. Clarke-Özdemir İnce,3.85,0061122416,9780061122415,eng,197,1592632,54668
+866,Fullmetal Alchemist  Vol. 9 (Fullmetal Alchemist  #9),Hiromu Arakawa-Akira Watanabe,4.57,142150460X,9781421504605,eng,192,8568,141
+868,Fullmetal Alchemist  Vol. 3 (Fullmetal Alchemist  #3),Hiromu Arakawa-Akira Watanabe,4.56,1591169259,9781591169253,eng,192,15748,274
+869,Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8),Hiromu Arakawa-Akira Watanabe,4.57,1421504596,9781421504599,eng,192,9621,145
+870,Fullmetal Alchemist  Vol. 1 (Fullmetal Alchemist  #1),Hiromu Arakawa-Akira Watanabe,4.49,1591169208,9781591169208,eng,192,103978,1326
+871,Fullmetal Alchemist  Vol. 4 (Fullmetal Alchemist  #4),Hiromu Arakawa-Akira Watanabe,4.55,1591169291,9781591169291,eng,200,9920,270
+872,The Illustrated Alchemist: A Fable about Following Your Dream,Paulo Coelho-Alan R. Clarke-Mœbius,3.85,006019250X,9780060192501,en-US,198,236,31
+873,Fullmetal Alchemist  Vol. 2 (Fullmetal Alchemist  #2),Hiromu Arakawa-Akira Watanabe,4.52,1591169232,9781591169239,eng,192,14101,384
+874,The Kite Runner,Khaled Hosseini,4.28,0747588945,9780747588948,eng,324,1213,201
+880,Pompeii,Robert   Harris,3.81,0812974611,9780812974614,eng,304,25729,1633
+888,The Last Days of Pompeii,Edward Bulwer-Lytton-John Gregory Betancourt,3.59,158715739X,9781587157394,eng,360,1124,67
+890,Of Mice and Men,John Steinbeck,3.86,0142000671,9780142000670,eng,112,1654353,23959
+899,Of Mice and Men,John Steinbeck-Jim Taylor,3.86,0582461464,9780582461468,eng,160,2088,162
+900,The Game: Penetrating the Secret Society of Pickup Artists,Neil Strauss,3.74,0060554738,9780060554736,en-US,464,19305,1510
+902,The Westing Game,Ellen Raskin,4.02,014240120X,9780142401200,eng,182,134362,8278
+903,The Egypt Game,Zilpha Keatley Snyder,3.82,0808553038,9780808553038,eng,215,29160,1083
+929,Memoirs of a Geisha,Arthur Golden,4.10,1400096898,9781400096893,eng,503,211763,3015
+930,Memoirs of a Geisha,Arthur Golden,4.10,0739326228,9780739326220,eng,434,1301305,19452
+931,Memoirs of a Geisha,Arthur Golden,4.10,0099498189,9780099498186,en-US,497,2075,254
+932,Memoirs of a Geisha: A Portrait of the Film,David        James-Peggy Mulloy-Rob Marshall-Arthur Golden,4.08,1557046832,9781557046833,eng,144,142,8
+933,Memoirs of a Geisha,Arthur Golden,4.10,0099771519,9780099771517,eng,493,3883,425
+935,Geisha of Gion,Mineko Iwasaki-Rande Brown,3.93,074343059X,9780743430593,eng,334,1438,148
+936,Memoirs Of A Geisha,Arthur Golden,4.10,0007229577,9780007229574,eng,3,24,5
+941,Love As A Foreign Language #5,J. Torres-Eric  Kim,3.44,1932664394,9781932664393,eng,58,9,2
+944,Jungle Love,Margaret Johnson-Philip Prowse,3.37,0521750849,9780521750844,eng,95,57,6
+947,First Impressions,Nora Roberts,3.74,0373510055,9780373510054,eng,250,31,3
+955,The 5 Love Languages / The 5 Love Languages Journal,Gary Chapman,4.71,0802415318,9780802415318,eng,0,20,4
+960,Angels & Demons (Robert Langdon  #1),Dan Brown,3.88,1416524797,9781416524793,eng,736,2279854,20851
+965,Ángeles y demonios (Robert Langdon  #1),Dan Brown,3.88,849561877X,9788495618771,spa,508,197,22
+966,Angeles & Demonios,Dan Brown-Raúl Amundaray,3.88,0972859896,9780972859899,spa,18,65,7
+968,The Da Vinci Code (Robert Langdon  #2),Dan Brown,3.82,0307277674,9780307277671,eng,489,1588890,35316
+969,The Da Vinci Code,Dan Brown,3.82,076792603X,9780767926034,eng,467,1109,110
+972,Da Vinci Code (Robert Langdon  #2),Dan Brown-Daniel Roche,3.82,2266144340,9782266144346,fre,744,347,14
+975,Deception Point,Dan Brown,3.70,1416524800,9781416524809,eng,736,4864,410
+976,Deception Point,Dan Brown,3.70,0671027387,9780671027384,eng,556,511233,6870
+977,Deception Point,Dan Brown,3.70,0552151769,9780552151764,eng,585,3213,178
+980,Deception Point,Dan Brown,3.70,0593055071,9780593055076,eng,448,60,4
+981,حقيقة الخديعة,Dan Brown-دان براون-فايزة المنجد-محمد فداء الهاشمي,3.70,9953299072,9789953299075,ara,471,43,4
+983,Deception Point,Dan Brown,3.70,1416524886,9781416524885,eng,736,87,12
+987,A Killing Rain (Louis Kincaid  #6),P.J. Parrish,4.04,078601606X,9780786016068,eng,383,440,39
+991,Eye of the Storm (Hudson  #3),V.C. Andrews,3.82,0743409159,9780743409155,eng,368,36,5
+998,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley-William D. Danko,4.02,0671015206,9780671015206,eng,258,56189,2373
